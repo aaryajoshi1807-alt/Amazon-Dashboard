@@ -80,7 +80,7 @@ The dataset contains Amazon sales information including:
 3. Use the filters and visuals to explore the data
 
 9.Screenshort/Demo
-Show What Dashboard Looks like:-
+Show What Dashboard Looks like:-https://github.com/aaryajoshi1807-alt/Amazon-Dashboard/blob/main/Amazon%20Dashboard%20Screenshort.jpeg
 
 10. Author
 **Arya Joshi**  
